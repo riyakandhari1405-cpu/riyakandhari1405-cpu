@@ -77,19 +77,6 @@ A modular transaction platform featuring a transaction chatbot, AI engine, gatew
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=riyakandhari1405-cpu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyakandhari1405-cpu&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=riyakandhari1405-cpu&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🌱 Currently Exploring
 
 - Advanced SwiftUI and iOS architecture
